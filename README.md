@@ -1,7 +1,12 @@
 # 🛒 Trendyol Test Automation Framework (EN)
 
-Build with **Maven + Selenium + Cucumber + TestNG**
-License: MIT
+[![Build with Maven](https://img.shields.io/badge/build-Maven-5C2D91?logo=apachemaven)](https://maven.apache.org/)
+[![Test Framework](https://img.shields.io/badge/Cucumber-7.28.2-brightgreen?logo=cucumber)](https://cucumber.io/)
+[![Selenium](https://img.shields.io/badge/Selenium-4.35.0-43B02A?logo=selenium)](https://www.selenium.dev/)
+[![TestNG](https://img.shields.io/badge/TestNG-7.28.2-orange?logo=testng)](https://testng.org/)
+[![ExtentReports](https://img.shields.io/badge/ExtentReports-5.1.2-yellow?logo=java)](http://extentreports.com/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kübra%20Daşdoğan-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubradas/)
 
 ---
 
@@ -13,7 +18,7 @@ Reporting is handled via **Extent Reports**.
 
 ---
 
-## Test Scenarios (Summary)
+## Test Scenarios
 
 * **Sort Products**: Search for a keyword and validate multiple sort types (recommended, price low-to-high, price high-to-low, best sellers, most favorites, newest, most reviewed).
 * **Search & Add Product**: Search for a category, select the first product, add it to the cart, and validate cart consistency.
@@ -65,22 +70,29 @@ screenshot.dir=test-output/SparkReport/Screenshots
 
 ## Developer
 
-**Kübra Daşdoğan**
-Software QA Engineer
-LinkedIn Profile
+**Kübra Daşdoğan**  
+Software QA Engineer  
+[View LinkedIn Profile](https://www.linkedin.com/in/kubradas/)
 
 ---
 
 ## License
 
-This project is licensed under the **MIT License**. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ---
 
+
 # 🛒 Trendyol Test Otomasyon Framework (Türkçe)
 
-Maven + Selenium + Cucumber + TestNG ile geliştirilmiştir.
-Lisans: MIT
+[![Build with Maven](https://img.shields.io/badge/build-Maven-5C2D91?logo=apachemaven)](https://maven.apache.org/)
+[![Test Framework](https://img.shields.io/badge/Cucumber-7.28.2-brightgreen?logo=cucumber)](https://cucumber.io/)
+[![Selenium](https://img.shields.io/badge/Selenium-4.35.0-43B02A?logo=selenium)](https://www.selenium.dev/)
+[![TestNG](https://img.shields.io/badge/TestNG-7.28.2-orange?logo=testng)](https://testng.org/)
+[![ExtentReports](https://img.shields.io/badge/ExtentReports-5.1.2-yellow?logo=java)](http://extentreports.com/)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kübra%20Daşdoğan-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kubradas/)
 
 ---
 
@@ -92,7 +104,7 @@ Raporlama **Extent Reports** ile yapılmaktadır.
 
 ---
 
-## Test Senaryoları (Özet)
+## Test Senaryoları
 
 * **Ürün Sıralama**: Belirli bir kelime ile arama yapılıp ürünlerin farklı sıralama tiplerine göre (önerilen, düşükten yükseğe, yüksekten düşüğe, en çok satan, en favoriler, en yeniler, en çok değerlendirilen) sıralandığı doğrulanır.
 * **Ürün Arama & Sepete Ekleme**: Kategori araması yapılır, ilk ürün seçilir, sepete eklenir ve sepetteki bilgiler doğrulanır.
@@ -144,12 +156,14 @@ screenshot.dir=test-output/SparkReport/Screenshots
 
 ## Geliştirici
 
-**Kübra Daşdoğan**
-Yazılım Test Mühendisi
-LinkedIn Profilim
+**Kübra Daşdoğan**  
+Yazılım Test Mühendisi  
+[LinkedIn Profilim](https://www.linkedin.com/in/kubradas/)
 
 ---
 
-## Lisans
+## Lisans  
 
-Bu proje **MIT Lisansı** ile lisanslanmıştır. Detaylar için LICENSE dosyasına bakınız.
+Bu proje MIT lisansı ile lisanslanmıştır. Detaylar için [LICENSE](LICENSE) dosyasını inceleyin.
+
+---
